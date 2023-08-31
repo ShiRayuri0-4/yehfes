@@ -1,12 +1,12 @@
 .a{
-  font-size:128;
+  font-size:1rem;
 }
 .b{
-  font-size:256;
+  font-size:2rem;
 }
 .c{
-  font-size:512;
+  font-size:5rem;
 }
 .d{
-  font-size:1024;
+  font-size:10rem;
 }
