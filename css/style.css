@@ -1,0 +1,66 @@
+@charset "utf-16";
+html {
+font-size: 100%;
+}
+.logo {
+width: 150px;
+margin-top: 14px
+}
+body {
+background-color: #ffffff;
+}
+h1 {
+color: #193278;
+font-family: 'Train One', cursive;
+font-size: 50px;
+margin: 10px 60px 60px 0;
+}
+h3 {
+font-family: 'Kaisei Tokumin', serif; 
+}
+h2 {
+font-family: 'Kiwi Maru', serif;
+border-width: medium;
+border-style: double;
+margin: 50px 50px 50px 50px
+padding: 50px;
+}
+p {
+font-family: 'DotGothic16', sans-serif;
+font-size: 20px;
+}
+.container {
+			display: grid;
+			grid-template-columns: 300px 300px 300px;
+			gap: 20px;
+			grid-template-rows: 300px 300px 300px;
+		}
+
+.home-content {
+text-align: center;
+}
+home-content h2 {
+text-align: center;
+}
+home-content h3 {
+text-align: center;
+}
+home-content p {
+text-align: center;
+}
+home-content a {
+text-align: center;
+}
+.kos{
+text-align: center;
+}
+
+.container {
+display: grid;
+grid-template-columns: 50px 50px 50px;
+width: 50px
+gap: 10px
+}
+div img {
+height: 500px;
+}
