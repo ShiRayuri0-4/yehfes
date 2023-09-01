@@ -45,7 +45,10 @@ text-align: center;
 home-content a {
 text-align: center;
 }
-
+#hid {
+color: #ffffff;
+text-align: center;
+}
 .container {
 display: grid;
 grid-template-columns: 0.7fr;
