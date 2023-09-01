@@ -1,7 +1,4 @@
-.kotyuge{
+p{
   font-size: 16px;
-}
-.kotyuge p{
-  overflow: auto;
   white-space: nowrap;
 }
